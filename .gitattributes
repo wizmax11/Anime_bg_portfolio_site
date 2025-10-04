@@ -1,0 +1,4 @@
+# Force GitHub to detect front-end languages
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
